@@ -1,0 +1,28 @@
+# Ignore JetBrains IDE project files
+.idea/
+*.iml
+
+# Ignore Python virtual environments
+.venv/
+venv/
+
+# Ignore Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore environment and config files
+.env
+*.env
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore build and distribution directories
+build/
+dist/
+*.egg-info/
+
+# Ignore logs
+*.log
